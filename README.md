@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 ## 🌐 Live Demo
 
-Visit the live website: [https://421pvv.github.io](https://421pvv.github.io)
+Visit the live website: [https://vishnuhq.github.io](https://vishnuhq.github.io)
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ I'm a Computer Science graduate student focusing on Software Development, specia
 ## 📞 Contact
 
 - **Email**: [vishnuvardhanputta421@gmail.com](mailto:vishnuvardhanputta421@gmail.com)
-- **GitHub**: [github.com/421pvv](https://github.com/421pvv)
+- **GitHub**: [github.com/vishnuhq](https://github.com/vishnuhq)
 - **LinkedIn**: [linkedin.com/in/vishnuvardhanputta](https://linkedin.com/in/vishnuvardhanputta)
 
 ---
